@@ -18,7 +18,6 @@ I'm Daniel Pequeño, a Data Analyst, I am passionate about leveraging technology
   <ul>
     <li>Data Analysis</li>
     <li>Machine Learning & AI</li>
-    <li>Machine Learning & AI</li>
     <li>Cloud Computing</li>
     <li>Stakeholder Collaboration & Team Leadership</li>
   </ul>
