@@ -29,6 +29,14 @@ I'm Daniel Pequeño, a Data Analyst, I am passionate about leveraging technology
 
 Linked In: www.linkedin.com/in/daniel-pequeño
 
+## 💻 Tecnologies Skills
+![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite)
+![Static Badge](https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=Tableau&labelColor=purple)
+![Static Badge](https://img.shields.io/badge/HTML5-green?style=for-the-badge&logo=HTML5)
+
+
+
 <!--
 **danpeq/danpeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
