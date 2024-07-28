@@ -10,7 +10,7 @@ I'm Daniel Pequeño, a Data Analyst, I am passionate about leveraging technology
   </ul>
 </div>
 
-🌐 Industry Experience: I've worked across various sectors, I excel in project management, team leadership, and materials procurement. My proficiency in Civil 3D design, advanced Excel, SQL Python and  MS Project allows me to deliver results with precision and attention to detail..
+🌐 Industry Experience: I've worked across various sectors, I excel in project management, team leadership, and materials procurement. My proficiency in advanced Excel, SQL Python and MS Project allows me to deliver results with precision and attention to detail.
 
 📊 Expertise areas:
 
