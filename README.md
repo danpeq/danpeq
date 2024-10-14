@@ -4,7 +4,7 @@ I'm Daniel Pequeño, a Data Analyst, I am passionate about leveraging technology
 
 <div>
   <ul>
-    <li>Dynamic and analytical professional with a strong foundation in data engineering, I am proficient in utilizing SQL, Advanced Excel, Python, and Tableau for effective data collection, cleaning, modeling, and interpretation</li>
+    <li>Dynamic and analytical professional with a strong foundation in Business Intelligence, I am proficient in utilizing SQL, Advanced Excel, Python, and Tableau for effective data collection, cleaning, modeling, and interpretation</li>
     <li>Additionally, I am skilled in cloud data collection and storage services, as well as manipulating complex data to translate data sets into actionable insights.</li>
     <li>I excel at presenting findings in a comprehensible and impactful manner</li>
   </ul>
